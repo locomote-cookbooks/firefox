@@ -1,1 +1,1 @@
-package(:firefox) { action :install }
+package('firefox') { action :install }

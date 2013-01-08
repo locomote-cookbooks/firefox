@@ -1,7 +1,7 @@
 maintainer   "Locomote"
 license      "BSD"
 description  "Installs firefox"
-version      "0.1"
+version      "0.1.1"
 
 %w{centos ubuntu}.each do |os|
   supports os
